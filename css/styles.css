@@ -1,0 +1,37 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    background: white;
+}
+
+.tag {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    padding-left: 180px;
+    padding-right: 180px;
+    display: table;
+    margin: 10px auto;
+
+  } 
+
+  body {
+      text-align: center;
+      background: white;
+  }
+
+  header {
+      background: rgb(247, 243, 243);
+      padding: .5em 0;
+   } 
+
+  .bottom {
+      background: rgb(247, 243, 243);
+      margin-top: 5px;
+      overflow: hidden;
+  }
+
+ 
+  
