@@ -1,5 +1,6 @@
 * {
     font-family: 'Roboto', sans-serif;
+    
 }
 
 main {
@@ -10,9 +11,7 @@ main {
     background-color: white;
     color: black;
     padding: 10px;
-    padding-left: 180px;
-    padding-right: 180px;
-    display: table;
+    display: block;
     margin: 10px auto;
 
   } 
@@ -33,5 +32,14 @@ main {
       overflow: hidden;
   }
 
+  img {
+      max-width: 100%;
+  }
  
-  
+  .footer .student {
+      margin-right: 80%;
+  }
+
+  .footer .top {
+      margin-left: 80%;
+  }
