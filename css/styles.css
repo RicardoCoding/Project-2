@@ -12,8 +12,7 @@ main {
     color: black;
     padding: 10px;
     display: block;
-    margin: 10px auto;
-
+    margin: 10px;
   } 
 
   body {
@@ -36,10 +35,3 @@ main {
       max-width: 100%;
   }
  
-  .footer .student {
-      margin-right: 80%;
-  }
-
-  .footer .top {
-      margin-left: 80%;
-  }
