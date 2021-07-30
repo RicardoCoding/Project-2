@@ -211,9 +211,12 @@ header {
     .top-header {
         flex-direction: row;
         justify-content: space-between;
+        align-items: baseline;
     }
 
-   
+   .main-nav {
+       padding-left: 25%;
+   }
 
     .home, 
     .portfolio,
